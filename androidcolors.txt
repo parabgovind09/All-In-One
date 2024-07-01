@@ -1,0 +1,880 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="AliceBlue">#F0F8FF</color>
+    <color name="AntiqueWhite">#FAEBD7</color>
+    <color name="Aqua">#00FFFF</color>
+    <color name="Aquamarine">#7FFFD4</color>
+    <color name="Azure">#F0FFFF</color>
+
+    <color name="black">#FF000000</color>
+    <color name="Beige">#F5F5DC</color>
+    <color name="BlanchedAlmond">#FFEBCD</color>
+    <color name="Blue">#0000FF</color>
+    <color name="BlueVoilet">#8A2BE2</color>
+    <color name="Brown">#A52A2A</color>
+    <color name="BurlyWood">#DEB887</color>
+
+    <color name="CadetBlue">#5F9EA0</color>
+    <color name="Chartreuse">#7FFF00</color>
+    <color name="Chocolate">#D2691E</color>
+    <color name="Coral">#FF7F50</color>
+    <color name="CornflowerBlue">#6495ED</color>
+    <color name="Crimson">#DC143C</color>
+    <color name="Cyan">#00FFFF</color>
+    <color name="Cornsilk">#FFF8DC</color>
+
+    <color name="DarkBlue">#00008B</color>
+    <color name="DarkCyan">#008B8B</color>
+    <color name="DarkGoldenRod">#B8860B</color>
+    <color name="DarkGray">#A9A9A9</color>
+    <color name="DarkGreen">#006400</color>
+    <color name="DarkKhaki">#BDB76B</color>
+    <color name="DarkMagenta">#8B008B</color>
+    <color name="DarkOliveGreen">#556B2f</color>
+    <color name="DarkOrange">#FF8C00</color>
+    <color name="DarkRed">#8B0000</color>
+    <color name="DarkOrchid">#9932CC</color>
+    <color name="DarkSalmon">#E9967A</color>
+    <color name="DarkSeaGreen">#8FBC8F</color>
+    <color name="DarkSlateBlue">#483D8B</color>
+    <color name="DarKSlateGray">#2F4F4F</color>
+    <color name="DarkTurquoise">#00CED1</color>
+    <color name="DarkVoilet">#9400D3</color>
+    <color name="DeepPink">#FF1493</color>
+    <color name="DeepSkyBlue">#00BFFF</color>
+    <color name="DimGray">#696969</color>
+    <color name="DodgerBlue">#1E90FF</color>
+
+    <color name="FloralWhite">#FFFAF0</color>
+    <color name="ForestGreen">#228B22</color>
+    <color name="Fuchsia">#FF00FF</color>
+    <color name="FireBrick">#B22222</color>
+
+    <color name="GhostWhite">#F8F8FF</color>
+    <color name="Giansboro">#DCDCDC</color>
+    <color name="Gold">#FFD700</color>
+    <color name="GoldenRod">#DAA520</color>
+    <color name="Gray">#808080</color>
+    <color name="Green">#008000</color>
+    <color name="GreenYellow">#ADFF2F</color>
+
+    <color name="HoneyDew">#F0FFF0</color>
+    <color name="HotPink">#FF69B4</color>
+
+    <color name="IndianRed">#CD5C5C</color>
+    <color name="Indigo">#4B0082</color>
+    <color name="Ivory">#FFFFF0</color>
+
+    <color name="Khaki">#F0E68C</color>
+
+    <color name="Lavender">#E6E6FA</color>
+    <color name="LavenderBlush">#FFF0F5</color>
+    <color name="LawnGreen">#7CFC00</color>
+    <color name="LightBlue">#ADD8E6</color>
+    <color name="LightCoral">#F08080</color>
+    <color name="LightCyan">#E0FFFF</color>
+    <color name="LightGoldenRodYellow">#FAFAD2</color>
+    <color name="LightGray">#D3D3D3</color>
+    <color name="LightGreen">#90EE90</color>
+    <color name="LightPink">#FFB6C1</color>
+    <color name="LightSalmon">#FFA07A</color>
+    <color name="LightSeaGreen">#20B2AA</color>
+    <color name="LightSkyBlue">#87CEFA</color>
+    <color name="LightSlateGrey">#778899</color>
+    <color name="LightSteelBlue">#B0C4DE</color>
+    <color name="Lime">#00FF00</color>
+    <color name="LimeGreen">#32CD32</color>
+    <color name="Linen">#FAF0E6</color>
+    <color name="LightYellow">#FFFFE0</color>
+    <color name="LemonChiffon">#FFFACD</color>
+
+    <color name="Magenta">#FF00FF</color>
+    <color name="Maroon">#800000</color>
+    <color name="MediumAquaMarine">#66CDAA</color>
+    <color name="MediumBlue">#0000CD</color>
+    <color name="MediumOrchid">#BA55D3</color>
+    <color name="MediumPurple">#9370DB</color>
+    <color name="MediumSeaGreen">#3CB371</color>
+    <color name="MediumSlateBlue">#7B68EE</color>
+    <color name="MediumSpringGreen">#00FA9A</color>
+    <color name="MediumTurquoise">#48D1CC</color>
+    <color name="MediumVioletRed">#C71585</color>
+    <color name="MidnightBlue">#191970</color>
+    <color name="MintCream">#F5FFFA</color>
+    <color name="MistyRose">#FFE4E1</color>
+    <color name="Moccasin">#FFE4B5</color>
+
+    <color name="NavajoWhite">#FFDEAD</color>
+    <color name="Navy">#000080</color>
+
+    <color name="OldLace">#FDF5E6</color>
+    <color name="Olive">#808000</color>
+    <color name="OliveDrab">#6B8E23</color>
+    <color name="Orange">#FFA500</color>
+    <color name="OrangeRed">#FF4500</color>
+    <color name="Orchid">#DA70D6</color>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="PaleGoldenRod">#EEE8AA</color>
+    <color name="PaleGreen">#98FB98</color>
+    <color name="PaleTurquoise">#AFEEEE</color>
+    <color name="PaleVoiletRed">#DB7093</color>
+    <color name="PapayaWhip">#FFEFD5</color>
+    <color name="PeachPuff">#FFDAB9</color>
+    <color name="Peru">#CD853F</color>
+    <color name="Pink">#FFC0CB</color>
+    <color name="Plum">#DDA0DD</color>
+    <color name="PowderBlue">#B0E0E6</color>
+    <color name="Purple">#800080</color>
+
+    <color name="RoyalBlue">#4169E1</color>
+    <color name="RosyBrown">#BC8F8F</color>
+    <color name="Red">#FF0000</color>
+    <color name="RebeccaPurple">#663399</color>
+
+    <color name="SteelBlue">#4682B4</color>
+    <color name="SpringGreen">#00FF7F</color>
+    <color name="Snow">#FFFAFA</color>
+    <color name="SlateGray">#708090</color>
+    <color name="SlateBlue">#6A5ACD</color>
+    <color name="SkyBlue">#87CEEB</color>
+    <color name="Silver">#C0C0C0</color>
+    <color name="Sienna">#A0522D</color>
+    <color name="SeaShell">#FFF5EE</color>
+    <color name="SeaGreen">#2E8B57</color>
+    <color name="SandyBrown">#8B4513</color>
+
+    <color name="Tomato">#FF6347</color>
+    <color name="Turquoise">#40E0D0</color>
+    <color name="Thistle">#D8BFD8</color>
+    <color name="Tan">#D2B48C</color>
+    <color name="Teal">#008080</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF005757</color>
+
+    <color name="Voilet">#EE82EE</color>
+
+    <color name="WhiteSmoke">#F5F5F5</color>
+    <color name="Wheat">#F5DEB3</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="Yellow">#FFFF00</color>
+    <color name="YellowGreen">#9ACD32</color>
+
+    <color name="Zenchua">#D23C77</color>
+    <color name="Zokine">#43523C</color>
+    <color name="Zoboba">#BC8A52</color>
+    <color name="Zomp">#39A78E</color>
+    <color name="Zunza">#BFD1BC</color>
+    <color name="Zutem">#D4AA25</color>
+    <color name="Zucchini">#506022</color>
+    <color name="Zunisha">#899BA9</color>
+
+    <!-- array for colors -->
+    <array name="colorbox">
+        <item>@color/AliceBlue</item>
+        <item>@color/AntiqueWhite</item>
+        <item>@color/Aqua</item>
+        <item>@color/Aquamarine</item>
+        <item>@color/Azure</item>
+
+        <item>@color/black</item>
+        <item>@color/Beige</item>
+        <item>@color/BlanchedAlmond</item>
+        <item>@color/Blue</item>
+        <item>@color/BlueVoilet</item>
+        <item>@color/Brown</item>
+        <item>@color/BurlyWood</item>
+
+        <item>@color/CadetBlue</item>
+        <item>@color/Chartreuse</item>
+        <item>@color/Chocolate</item>
+        <item>@color/Coral</item>
+        <item>@color/CornflowerBlue</item>
+        <item>@color/Crimson</item>
+        <item>@color/Cyan</item>
+        <item>@color/Cornsilk</item>
+
+        <item>@color/DarkBlue</item>
+        <item>@color/DarkCyan</item>
+        <item>@color/DarkGoldenRod</item>
+        <item>@color/DarkGray</item>
+        <item>@color/DarkGreen</item>
+        <item>@color/DarkKhaki</item>
+        <item>@color/DarkMagenta</item>
+        <item>@color/DarkOliveGreen</item>
+        <item>@color/DarkOrange</item>
+        <item>@color/DarkRed</item>
+        <item>@color/DarkOrchid</item>
+        <item>@color/DarkSalmon</item>
+        <item>@color/DarkSeaGreen</item>
+        <item>@color/DarkSlateBlue</item>
+        <item>@color/DarKSlateGray</item>
+        <item>@color/DarkTurquoise</item>
+        <item>@color/DarkVoilet</item>
+        <item>@color/DeepPink</item>
+        <item>@color/DeepSkyBlue</item>
+        <item>@color/DimGray</item>
+        <item>@color/DodgerBlue</item>
+
+        <item>@color/FloralWhite</item>
+        <item>@color/ForestGreen</item>
+        <item>@color/Fuchsia</item>
+        <item>@color/FireBrick</item>
+
+        <item>@color/GhostWhite</item>
+        <item>@color/Giansboro</item>
+        <item>@color/Gold</item>
+        <item>@color/GoldenRod</item>
+        <item>@color/Gray</item>
+        <item>@color/Green</item>
+        <item>@color/GreenYellow</item>
+
+        <item>@color/HoneyDew</item>
+        <item>@color/HotPink</item>
+
+        <item>@color/IndianRed</item>
+        <item>@color/Indigo</item>
+        <item>@color/Ivory</item>
+
+        <item>@color/Khaki</item>
+
+        <item>@color/Lavender</item>
+        <item>@color/LavenderBlush</item>
+        <item>@color/LawnGreen</item>
+        <item>@color/LightBlue</item>
+        <item>@color/LightCoral</item>
+        <item>@color/LightCyan</item>
+        <item>@color/LightGoldenRodYellow</item>
+        <item>@color/LightGray</item>
+        <item>@color/LightGreen</item>
+        <item>@color/LightPink</item>
+        <item>@color/LightSalmon</item>
+        <item>@color/LightSeaGreen</item>
+        <item>@color/LightSkyBlue</item>
+        <item>@color/LightSlateGrey</item>
+        <item>@color/LightSteelBlue</item>
+        <item>@color/Lime</item>
+        <item>@color/LimeGreen</item>
+        <item>@color/Linen</item>
+        <item>@color/LightYellow</item>
+        <item>@color/LemonChiffon</item>
+
+        <item>@color/Magenta</item>
+        <item>@color/Maroon</item>
+        <item>@color/MediumAquaMarine</item>
+        <item>@color/MediumBlue</item>
+        <item>@color/MediumOrchid</item>
+        <item>@color/MediumPurple</item>
+        <item>@color/MediumSeaGreen</item>
+        <item>@color/MediumSlateBlue</item>
+        <item>@color/MediumSpringGreen</item>
+        <item>@color/MediumTurquoise</item>
+        <item>@color/MediumVioletRed</item>
+        <item>@color/MidnightBlue</item>
+        <item>@color/MintCream</item>
+        <item>@color/MistyRose</item>
+        <item>@color/Moccasin</item>
+
+        <item>@color/NavajoWhite</item>
+        <item>@color/Navy</item>
+
+        <item>@color/OldLace</item>
+        <item>@color/Olive</item>
+        <item>@color/OliveDrab</item>
+        <item>@color/Orange</item>
+        <item>@color/OrangeRed</item>
+        <item>@color/Orchid</item>
+
+        <item>@color/purple_200</item>
+        <item>@color/purple_500</item>
+        <item>@color/purple_700</item>
+        <item>@color/PaleGoldenRod</item>
+        <item>@color/PaleGreen</item>
+        <item>@color/PaleTurquoise</item>
+        <item>@color/PaleVoiletRed</item>
+        <item>@color/PapayaWhip</item>
+        <item>@color/PeachPuff</item>
+        <item>@color/Peru</item>
+        <item>@color/Pink</item>
+        <item>@color/Plum</item>
+        <item>@color/PowderBlue</item>
+        <item>@color/Purple</item>
+
+        <item>@color/RoyalBlue</item>
+        <item>@color/RosyBrown</item>
+        <item>@color/Red</item>
+        <item>@color/RebeccaPurple</item>
+
+        <item>@color/SteelBlue</item>
+        <item>@color/SpringGreen</item>
+        <item>@color/Snow</item>
+        <item>@color/SlateGray</item>
+        <item>@color/SlateBlue</item>
+        <item>@color/SkyBlue</item>
+        <item>@color/Silver</item>
+        <item>@color/Sienna</item>
+        <item>@color/SeaShell</item>
+        <item>@color/SeaGreen</item>
+        <item>@color/SandyBrown</item>
+
+        <item>@color/Tomato</item>
+        <item>@color/Turquoise</item>
+        <item>@color/Thistle</item>
+        <item>@color/Tan</item>
+        <item>@color/Teal</item>
+        <item>@color/teal_200</item>
+        <item>@color/teal_700</item>
+
+        <item>@color/Voilet</item>
+
+        <item>@color/WhiteSmoke</item>
+        <item>@color/Wheat</item>
+        <item>@color/white</item>
+
+        <item>@color/Yellow</item>
+        <item>@color/YellowGreen</item>
+
+        <item>@color/Zenchua</item>
+        <item>@color/Zokine</item>
+        <item>@color/Zoboba</item>
+        <item>@color/Zomp</item>
+        <item>@color/Zunza</item>
+        <item>@color/Zutem</item>
+        <item>@color/Zucchini</item>
+        <item>@color/Zunisha</item>
+    </array>
+
+
+<color name="WarmFlame1">#ff9a9e</color>
+<color name="WarmFlame2">#fad0c4</color>
+<color name="NightFade1">#a18cd1</color>
+<color name="NightFade2">#fbc2eb</color>
+<color name="SpringWarmth1">#fad0c4</color>
+<color name="SpringWarmth2">#ffd1ff</color>
+<color name="JuicyPeach1">#ffecd2</color>
+<color name="JuicyPeach2">#fcb69f</color>
+<color name="LadyLips1">#ff9a9e</color>
+<color name="LadyLips2">#fecfef</color>
+<color name="SunnyMorning1">#f6d365</color>
+<color name="SunnyMorning2">#fda085</color>
+<color name="RainyAshville1">#fbc2eb</color>
+<color name="RainyAshville2">#a6c1ee</color>
+<color name="FrozenDreams1">#fdcbf1</color>
+<color name="FrozenDreams2">#e6dee9</color>
+<color name="WinterNeva1">#a1c4fd</color>
+<color name="WinterNeva2">#c2e9fb</color>
+<color name="DustyGrass1">#d4fc79</color>
+<color name="DustyGrass2">#96e6a1</color>
+<color name="TemptingAzure1">#84fab0</color>
+<color name="TemptingAzure2">#8fd3f4</color>
+<color name="HeavyRain1">#cfd9df</color>
+<color name="HeavyRain2">#e2ebf0</color>
+<color name="AmyCrisp1">#a6c0fe</color>
+<color name="AmyCrisp2">#f68084</color>
+<color name="MeanFruit1">#fccb90</color>
+<color name="MeanFruit2">#d57eeb</color>
+<color name="DeepBlue1">#e0c3fc</color>
+<color name="DeepBlue2">#8ec5fc</color>
+<color name="RipeMalinka1">#f093fb</color>
+<color name="RipeMalinka2">#f5576c</color>
+<color name="CloudyKnoxville1">#fdfbfb</color>
+<color name="CloudyKnoxville2">#ebedee</color>
+<color name="MalibuBeach1">#4facfe</color>
+<color name="MalibuBeach2">#00f2fe</color>
+<color name="NewLife1">#43e97b</color>
+<color name="NewLife2">#38f9d7</color>
+<color name="TrueSunset1">#fa709a</color>
+<color name="TrueSunset2">#fee140</color>
+<color name="MorpheusDen1">#30cfd0</color>
+<color name="MorpheusDen2">#330867</color>
+<color name="RareWind1">#a8edea</color>
+<color name="RareWind2">#fed6e3</color>
+<color name="NearMoon1">#5ee7df</color>
+<color name="NearMoon2">#b490ca</color>
+<color name="WildApple1">#d299c2</color>
+<color name="WildApple2">#fef9d7</color>
+<color name="SaintPetersburg1">#f5f7fa</color>
+<color name="SaintPetersburg2">#c3cfe2</color>
+<color name="PlumPlate1">#667eea</color>
+<color name="PlumPlate2">#764ba2</color>
+<color name="EverlastingSky1">#fdfcfb</color>
+<color name="EverlastingSky2">#e2d1c3</color>
+<color name="HappyFisher1">#89f7fe</color>
+<color name="HappyFisher2">#66a6ff</color>
+<color name="Blessing1">#fddb92</color>
+<color name="Blessing2">#d1fdff</color>
+<color name="SharpeyeEagle1">#9890e3</color>
+<color name="SharpeyeEagle2">#b1f4cf</color>
+<color name="LadogaBottom1">#ebc0fd</color>
+<color name="LadogaBottom2">#d9ded8</color>
+<color name="LemonGate1">#96fbc4</color>
+<color name="LemonGate2">#f9f586</color>
+<color name="ItmeoBranding1">#2af598</color>
+<color name="ItmeoBranding2">#009efd</color>
+<color name="ZeusMiracle1">#cd9cf2</color>
+<color name="ZeusMiracle2">#f6f3ff</color>
+<color name="DeepBlue01">#6a11cb</color>
+<color name="DeepBlue02">#2575fc</color>
+<color name="HappyAcid1">#37ecba</color>
+<color name="HappyAcid2">#72afd3</color>
+<color name="AwesomePine1">#ebbba7</color>
+<color name="AwesomePine2">#cfc7f8</color>
+<color name="NewYork1">#fff1eb</color>
+<color name="NewYork2">#ace0f9</color>
+<color name="MixedHopes1">#c471f5</color>
+<color name="MixedHopes2">#fa71cd</color>
+<color name="FlyHigh1">#48c6ef</color>
+<color name="FlyHigh2">#6f86d6</color>
+<color name="FreshMilk1">#feada6</color>
+<color name="FreshMilk2">#f5efef</color>
+<color name="SnowAgain1">#e6e9f0</color>
+<color name="SnowAgain2">#eef1f5</color>
+<color name="FebruaryInk1">#accbee</color>
+<color name="FebruaryInk2">#e7f0fd</color>
+<color name="KindSteel1">#e9defa</color>
+<color name="KindSteel2">#fbfcdb</color>
+<color name="SoftGrass1">#c1dfc4</color>
+<color name="SoftGrass2">#deecdd</color>
+<color name="GrownEarly1">#0ba360</color>
+<color name="GrownEarly2">#3cba92</color>
+<color name="SharpBlues1">#00c6fb</color>
+<color name="SharpBlues2">#005bea</color>
+<color name="ShadyWater1">#74ebd5</color>
+<color name="ShadyWater2">#9face6</color>
+<color name="DirtyBeauty1">#6a85b6</color>
+<color name="DirtyBeauty2">#bac8e0</color>
+<color name="GreatWhale1">#a3bded</color>
+<color name="GreatWhale2">#6991c7</color>
+<color name="TeenNotebook1">#9795f0</color>
+<color name="TeenNotebook2">#fbc8d4</color>
+<color name="PoliteRumors1">#a7a6cb</color>
+<color name="PoliteRumors2">#8989ba</color>
+<color name="RedSalvation1">#f43b47</color>
+<color name="RedSalvation2">#453a94</color>
+<color name="NightParty1">#0250c5</color>
+<color name="NightParty2">#d43f8d</color>
+<color name="SkyGlider1">#88d3ce</color>
+<color name="SkyGlider2">#6e45e2</color>
+<color name="HeavenPeach1">#d9afd9</color>
+<color name="HeavenPeach2">#97d9e1</color>
+<color name="PurpleDivision1">#7028e4</color>
+<color name="PurpleDivision2">#e5b2ca</color>
+<color name="AquaSplash1">#13547a</color>
+<color name="AquaSplash2">#80d0c7</color>
+<color name="LoveKiss1">#ff0844</color>
+<color name="LoveKiss2">#ffb199</color>
+<color name="CleanMirror1">#93a5cf</color>
+<color name="CleanMirror2">#e4efe9</color>
+<color name="PremiumDark1">#434343</color>
+<color name="PremiumDark2">#000000</color>
+<color name="CochitiLake1">#93a5cf</color>
+<color name="CochitiLake2">#e4efe9</color>
+<color name="SummerGames1">#92fe9d</color>
+<color name="SummerGames2">#00c9ff</color>
+<color name="PassionateBed1">#ff758c</color>
+<color name="PassionateBed2">#ff7eb3</color>
+<color name="MountainRock1">#868f96</color>
+<color name="MountainRock2">#596164</color>
+<color name="DesertHump1">#c79081</color>
+<color name="DesertHump2">#dfa579</color>
+<color name="JungleDay1">#8baaaa</color>
+<color name="JungleDay2">#ae8b9c</color>
+<color name="PhoenixStart1">#f83600</color>
+<color name="PhoenixStart2">#f9d423</color>
+<color name="OctoberSilence1">#b721ff</color>
+<color name="OctoberSilence2">#21d4fd</color>
+<color name="FarawayRiver1">#6e45e2</color>
+<color name="FarawayRiver2">#88d3ce</color>
+<color name="LilyMeadow1">#6e45e2</color>
+<color name="LilyMeadow2">#88d3ce</color>
+<color name="StrictNovember1">#CBBACC</color>
+<color name="StrictNovember2">#2580B3</color>
+<color name="MorningSalad1">#B7F8DB</color>
+<color name="MorningSalad2">#50A7C2</color>
+<color name="PerfectWhite1">#E3FDF5</color>
+<color name="PerfectWhite2">#FFE6FA</color>
+<color name="FreshOasis1">#7DE2FC</color>
+<color name="FreshOasis2">#B9B6E5</color>
+<color name="SoftLipstick1">#B6CEE8</color>
+<color name="SoftLipstick2">#F578DC</color>
+<color name="SaltMountain1">#FFFEFF</color>
+<color name="SaltMountain2">#D7FFFE</color>
+<color name="WitchDance1">#A8BFFF</color>
+<color name="WitchDance2">#884D80</color>
+<color name="AquaGuidance1">#007adf</color>
+<color name="AquaGuidance2">#00ecbc</color>
+<color name="SunVeggie1">#20E2D7</color>
+<color name="SunVeggie2">#F9FEA5</color>
+<color name="SandStrike1">#c1c161</color>
+<color name="SandStrike2">#d4d4b1</color>
+<color name="NorseBeauty1">#ec77ab</color>
+<color name="NorseBeauty2">#7873f5</color>
+<color name="JuicyCake1">#e14fad</color>
+<color name="JuicyCake2">#f9d423</color>
+<color name="SmartIndigo1">#b224ef</color>
+<color name="SmartIndigo2">#7579ff</color>
+<color name="RoyalGarden1">#ed6ea0</color>
+<color name="RoyalGarden2">#ec8c69</color>
+<color name="RichMetal1">#d7d2cc</color>
+<color name="RichMetal2">#304352</color>
+<color name="ForestInei1">#df89b5</color>
+<color name="ForestInei2">#bfd9fe</color>
+<color name="MoleHall1">#616161</color>
+<color name="MoleHall2">#9bc5c3</color>
+<color name="AlchemistLab1">#d558c8</color>
+<color name="AlchemistLab2">#24d292</color>
+<color name="MillenniumPine1">#50cc7f</color>
+<color name="MillenniumPine2">#f5d100</color>
+<color name="HighFlight1">#0acffe</color>
+<color name="HighFlight2">#495aff</color>
+<color name="OverSun1">#abecd6</color>
+<color name="OverSun2">#fbed96</color>
+<color name="MarsParty1">#5f72bd</color>
+<color name="MarsParty2">#9b23ea</color>
+<color name="EternalConstance1">#09203f</color>
+<color name="EternalConstance2">#537895</color>
+<color name="JapanBlush1">#ddd6f3</color>
+<color name="JapanBlush2">#faaca8</color>
+<color name="SmilingRain1">#dcb0ed</color>
+<color name="SmilingRain2">#99c99c</color>
+<color name="CloudyApple1">#f3e7e9</color>
+<color name="CloudyApple2">#e3eeff</color>
+<color name="BigMango1">#c71d6f</color>
+<color name="BigMango2">#d09693</color>
+<color name="HealthyWater1">#96deda</color>
+<color name="HealthyWater2">#50c9c3</color>
+<color name="AmourAmour1">#f77062</color>
+<color name="AmourAmour2">#fe5196</color>
+<color name="StrongStick1">#a8caba</color>
+<color name="StrongStick2">#5d4157</color>
+<color name="ViciousStance1">#29323c</color>
+<color name="ViciousStance2">#485563</color>
+<color name="PaloAlto1">#16a085</color>
+<color name="PaloAlto2">#f4d03f</color>
+<color name="HappyMemories1">#ff5858</color>
+<color name="HappyMemories2">#f09819</color>
+<color name="MidnightBloom1">#2b5876</color>
+<color name="MidnightBloom2">#4e4376</color>
+<color name="Crystalline1">#00cdac</color>
+<color name="Crystalline2">#8ddad5</color>
+<color name="PartyBliss1">#4481eb</color>
+<color name="PartyBliss2">#04befe</color>
+<color name="ConfidentCloud1">#dad4ec</color>
+<color name="ConfidentCloud2">#f3e7e9</color>
+<color name="LeCocktai1">#874da2</color>
+<color name="LeCocktai2">#c43a30</color>
+<color name="RiverCity1">#4481eb</color>
+<color name="RiverCity2">#04befe</color>
+<color name="FrozenBerry1">#e8198b</color>
+<color name="FrozenBerry2">#c7eafd</color>
+<color name="ChildCare1">#f794a4</color>
+<color name="ChildCare2">#fdd6bd</color>
+<color name="FlyingLemon1">#64b3f4</color>
+<color name="FlyingLemon2">#c2e59c</color>
+<color name="HiddenJaguar1">#0fd850</color>
+<color name="HiddenJaguar2">#f9f047</color>
+<color name="Nega1">#ee9ca7</color>
+<color name="Nega2">#ffdde1</color>
+<color name="Seashore1">#209cff</color>
+<color name="Seashore2">#68e0cf</color>
+<color name="MarbleWall1">#bdc2e8</color>
+<color name="MarbleWall2">#e6dee9</color>
+<color name="CheerfulCaramel1">#e6b980</color>
+<color name="CheerfulCaramel2">#eacda3</color>
+<color name="NightSky1">#1e3c72</color>
+<color name="NightSky2">#2a5298</color>
+<color name="YoungGrass1">#9be15d</color>
+<color name="YoungGrass2">#00e3ae</color>
+<color name="NorthMiracle1">#00dbde</color>
+<color name="NorthMiracle2">#fc00ff</color>
+<color name="FruitBlend1">#f9d423</color>
+<color name="FruitBlend2">#ff4e50</color>
+<color name="GlassWater1">#dfe9f3</color>
+<color name="GlassWater2">#ffffff</color>
+<color name="SolidStone1">#243949</color>
+<color name="SolidStone2">#517fa4</color>
+<color name="OrangeJuice1">#fc6076</color>
+<color name="OrangeJuice2">#ff9a44</color>
+<color name="HappyUnicorn1">#b3ffab</color>
+<color name="HappyUnicorn2">#12fff7</color>
+<color name="PlumBath1">#cc208e</color>
+<color name="PlumBath2">#6713d2</color>
+<color name="GentleCare1">#ffc3a0</color>
+<color name="GentleCare2">#ffafbd</color>
+<color name="ColorfulPeach1">#ed6ea0</color>
+<color name="ColorfulPeach2">#ec8c69</color>
+
+
+
+
+    <!-- array for colors -->
+    <array name="gradientcolorbox1">
+        <item>@color/WarmFlame1</item>
+        <item>@color/NightFade1</item>
+        <item>@color/SpringWarmth1</item>
+        <item>@color/JuicyPeach1</item>
+        <item>@color/LadyLips1</item>
+        <item>@color/SunnyMorning1</item>
+        <item>@color/RainyAshville1</item>
+        <item>@color/FrozenDreams1</item>
+        <item>@color/WinterNeva1</item>
+        <item>@color/DustyGrass1</item>
+        <item>@color/TemptingAzure1</item>
+        <item>@color/HeavyRain1</item>
+        <item>@color/AmyCrisp1</item>
+        <item>@color/MeanFruit1</item>
+        <item>@color/DeepBlue1</item>
+        <item>@color/RipeMalinka1</item>
+        <item>@color/CloudyKnoxville1</item>
+        <item>@color/MalibuBeach1</item>
+        <item>@color/NewLife1</item>
+        <item>@color/TrueSunset1</item>
+        <item>@color/MorpheusDen1</item>
+        <item>@color/RareWind1</item>
+        <item>@color/NearMoon1</item>
+        <item>@color/WildApple1</item>
+        <item>@color/SaintPetersburg1</item>
+        <item>@color/PlumPlate1</item>
+        <item>@color/EverlastingSky1</item>
+        <item>@color/HappyFisher1</item>
+        <item>@color/Blessing1</item>
+        <item>@color/SharpeyeEagle1</item>
+        <item>@color/LadogaBottom1</item>
+        <item>@color/LemonGate1</item>
+        <item>@color/ItmeoBranding1</item>
+        <item>@color/ZeusMiracle1</item>
+        <item>@color/DeepBlue01</item>
+        <item>@color/HappyAcid1</item>
+        <item>@color/AwesomePine1</item>
+        <item>@color/NewYork1</item>
+        <item>@color/MixedHopes1</item>
+        <item>@color/FlyHigh1</item>
+        <item>@color/FreshMilk1</item>
+        <item>@color/SnowAgain1</item>
+        <item>@color/FebruaryInk1</item>
+        <item>@color/KindSteel1</item>
+        <item>@color/SoftGrass1</item>
+        <item>@color/GrownEarly1</item>
+        <item>@color/SharpBlues1</item>
+        <item>@color/ShadyWater1</item>
+        <item>@color/DirtyBeauty1</item>
+        <item>@color/GreatWhale1</item>
+        <item>@color/TeenNotebook1</item>
+        <item>@color/PoliteRumors1</item>
+        <item>@color/RedSalvation1</item>
+        <item>@color/NightParty1</item>
+        <item>@color/SkyGlider1</item>
+        <item>@color/HeavenPeach1</item>
+        <item>@color/PurpleDivision1</item>
+        <item>@color/AquaSplash1</item>
+        <item>@color/LoveKiss1</item>
+        <item>@color/CleanMirror1</item>
+        <item>@color/PremiumDark1</item>
+        <item>@color/CochitiLake1</item>
+        <item>@color/SummerGames1</item>
+        <item>@color/PassionateBed1</item>
+        <item>@color/MountainRock1</item>
+        <item>@color/DesertHump1</item>
+        <item>@color/JungleDay1</item>
+        <item>@color/PhoenixStart1</item>
+        <item>@color/OctoberSilence1</item>
+        <item>@color/FarawayRiver1</item>
+        <item>@color/LilyMeadow1</item>
+        <item>@color/StrictNovember1</item>
+        <item>@color/MorningSalad1</item>
+        <item>@color/PerfectWhite1</item>
+        <item>@color/FreshOasis1</item>
+        <item>@color/SoftLipstick1</item>
+        <item>@color/SaltMountain1</item>
+        <item>@color/WitchDance1</item>
+        <item>@color/AquaGuidance1</item>
+        <item>@color/SunVeggie1</item>
+        <item>@color/SandStrike1</item>
+        <item>@color/NorseBeauty1</item>
+        <item>@color/JuicyCake1</item>
+        <item>@color/SmartIndigo1</item>
+        <item>@color/RoyalGarden1</item>
+        <item>@color/RichMetal1</item>
+        <item>@color/ForestInei1</item>
+        <item>@color/MoleHall1</item>
+        <item>@color/AlchemistLab1</item>
+        <item>@color/MillenniumPine1</item>
+        <item>@color/HighFlight1</item>
+        <item>@color/OverSun1</item>
+        <item>@color/MarsParty1</item>
+        <item>@color/EternalConstance1</item>
+        <item>@color/JapanBlush1</item>
+        <item>@color/SmilingRain1</item>
+        <item>@color/CloudyApple1</item>
+        <item>@color/BigMango1</item>
+        <item>@color/HealthyWater1</item>
+        <item>@color/AmourAmour1</item>
+        <item>@color/StrongStick1</item>
+        <item>@color/ViciousStance1</item>
+        <item>@color/PaloAlto1</item>
+        <item>@color/HappyMemories1</item>
+        <item>@color/MidnightBloom1</item>
+        <item>@color/Crystalline1</item>
+        <item>@color/PartyBliss1</item>
+        <item>@color/ConfidentCloud1</item>
+        <item>@color/LeCocktai1</item>
+        <item>@color/RiverCity1</item>
+        <item>@color/FrozenBerry1</item>
+        <item>@color/ChildCare1</item>
+        <item>@color/FlyingLemon1</item>
+        <item>@color/HiddenJaguar1</item>
+        <item>@color/Nega1</item>
+        <item>@color/Seashore1</item>
+        <item>@color/MarbleWall1</item>
+        <item>@color/CheerfulCaramel1</item>
+        <item>@color/NightSky1</item>
+        <item>@color/YoungGrass1</item>
+        <item>@color/NorthMiracle1</item>
+        <item>@color/FruitBlend1</item>
+        <item>@color/GlassWater1</item>
+        <item>@color/SolidStone1</item>
+        <item>@color/OrangeJuice1</item>
+        <item>@color/HappyUnicorn1</item>
+        <item>@color/PlumBath1</item>
+        <item>@color/GentleCare1</item>
+        <item>@color/ColorfulPeach1</item>
+
+
+    </array>
+    <array name="gradientcolorbox2">
+        <item>@color/WarmFlame2</item>
+        <item>@color/NightFade2</item>
+        <item>@color/SpringWarmth2</item>
+        <item>@color/JuicyPeach2</item>
+        <item>@color/LadyLips2</item>
+        <item>@color/SunnyMorning2</item>
+        <item>@color/RainyAshville2</item>
+        <item>@color/FrozenDreams2</item>
+        <item>@color/WinterNeva2</item>
+        <item>@color/DustyGrass2</item>
+        <item>@color/TemptingAzure2</item>
+        <item>@color/HeavyRain2</item>
+        <item>@color/AmyCrisp2</item>
+        <item>@color/MeanFruit2</item>
+        <item>@color/DeepBlue2</item>
+        <item>@color/RipeMalinka2</item>
+        <item>@color/CloudyKnoxville2</item>
+        <item>@color/MalibuBeach2</item>
+        <item>@color/NewLife2</item>
+        <item>@color/TrueSunset2</item>
+        <item>@color/MorpheusDen2</item>
+        <item>@color/RareWind2</item>
+        <item>@color/NearMoon2</item>
+        <item>@color/WildApple2</item>
+        <item>@color/SaintPetersburg2</item>
+        <item>@color/PlumPlate2</item>
+        <item>@color/EverlastingSky2</item>
+        <item>@color/HappyFisher2</item>
+        <item>@color/Blessing2</item>
+        <item>@color/SharpeyeEagle2</item>
+        <item>@color/LadogaBottom2</item>
+        <item>@color/LemonGate2</item>
+        <item>@color/ItmeoBranding2</item>
+        <item>@color/ZeusMiracle2</item>
+        <item>@color/DeepBlue02</item>
+        <item>@color/HappyAcid2</item>
+        <item>@color/AwesomePine2</item>
+        <item>@color/NewYork2</item>
+        <item>@color/MixedHopes2</item>
+        <item>@color/FlyHigh2</item>
+        <item>@color/FreshMilk2</item>
+        <item>@color/SnowAgain2</item>
+        <item>@color/FebruaryInk2</item>
+        <item>@color/KindSteel2</item>
+        <item>@color/SoftGrass2</item>
+        <item>@color/GrownEarly2</item>
+        <item>@color/SharpBlues2</item>
+        <item>@color/ShadyWater2</item>
+        <item>@color/DirtyBeauty2</item>
+        <item>@color/GreatWhale2</item>
+        <item>@color/TeenNotebook2</item>
+        <item>@color/PoliteRumors2</item>
+        <item>@color/RedSalvation2</item>
+        <item>@color/NightParty2</item>
+        <item>@color/SkyGlider2</item>
+        <item>@color/HeavenPeach2</item>
+        <item>@color/PurpleDivision2</item>
+        <item>@color/AquaSplash2</item>
+        <item>@color/LoveKiss2</item>
+        <item>@color/CleanMirror2</item>
+        <item>@color/PremiumDark2</item>
+        <item>@color/CochitiLake2</item>
+        <item>@color/SummerGames2</item>
+        <item>@color/PassionateBed2</item>
+        <item>@color/MountainRock2</item>
+        <item>@color/DesertHump2</item>
+        <item>@color/JungleDay2</item>
+        <item>@color/PhoenixStart2</item>
+        <item>@color/OctoberSilence2</item>
+        <item>@color/FarawayRiver2</item>
+        <item>@color/LilyMeadow2</item>
+        <item>@color/StrictNovember2</item>
+        <item>@color/MorningSalad2</item>
+        <item>@color/PerfectWhite2</item>
+        <item>@color/FreshOasis2</item>
+        <item>@color/SoftLipstick2</item>
+        <item>@color/SaltMountain2</item>
+        <item>@color/WitchDance2</item>
+        <item>@color/AquaGuidance2</item>
+        <item>@color/SunVeggie2</item>
+        <item>@color/SandStrike2</item>
+        <item>@color/NorseBeauty2</item>
+        <item>@color/JuicyCake2</item>
+        <item>@color/SmartIndigo2</item>
+        <item>@color/RoyalGarden2</item>
+        <item>@color/RichMetal2</item>
+        <item>@color/ForestInei2</item>
+        <item>@color/MoleHall2</item>
+        <item>@color/AlchemistLab2</item>
+        <item>@color/MillenniumPine2</item>
+        <item>@color/HighFlight2</item>
+        <item>@color/OverSun2</item>
+        <item>@color/MarsParty2</item>
+        <item>@color/EternalConstance2</item>
+        <item>@color/JapanBlush2</item>
+        <item>@color/SmilingRain2</item>
+        <item>@color/CloudyApple2</item>
+        <item>@color/BigMango2</item>
+        <item>@color/HealthyWater2</item>
+        <item>@color/AmourAmour2</item>
+        <item>@color/StrongStick2</item>
+        <item>@color/ViciousStance2</item>
+        <item>@color/PaloAlto2</item>
+        <item>@color/HappyMemories2</item>
+        <item>@color/MidnightBloom2</item>
+        <item>@color/Crystalline2</item>
+        <item>@color/PartyBliss2</item>
+        <item>@color/ConfidentCloud2</item>
+        <item>@color/LeCocktai2</item>
+        <item>@color/RiverCity2</item>
+        <item>@color/FrozenBerry2</item>
+        <item>@color/ChildCare2</item>
+        <item>@color/FlyingLemon2</item>
+        <item>@color/HiddenJaguar2</item>
+        <item>@color/Nega2</item>
+        <item>@color/Seashore2</item>
+        <item>@color/MarbleWall2</item>
+        <item>@color/CheerfulCaramel2</item>
+        <item>@color/NightSky2</item>
+        <item>@color/YoungGrass2</item>
+        <item>@color/NorthMiracle2</item>
+        <item>@color/FruitBlend2</item>
+        <item>@color/GlassWater2</item>
+        <item>@color/SolidStone2</item>
+        <item>@color/OrangeJuice2</item>
+        <item>@color/HappyUnicorn2</item>
+        <item>@color/PlumBath2</item>
+        <item>@color/GentleCare2</item>
+        <item>@color/ColorfulPeach2</item>
+
+    </array>
+
+</resources>
