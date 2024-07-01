@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nav_open">nav_open</string>
+    <string name="nav_close">nav_close</string>
+</resources>

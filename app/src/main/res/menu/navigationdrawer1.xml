@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+    tools:ignore="HardcodedText">
+
+    <item android:title="General">
+
+        <menu>
+
+            <group android:checkableBehavior="single">
+
+                <item
+                    android:id="@+id/nav_simple"
+                    android:title="Simple notes"/>
+
+                <item
+                    android:id="@+id/nav_reminder"
+                    android:title="Reminder's"/>
+
+                <item
+                    android:id="@+id/nav_heat"
+                    android:title="Note Book"/>
+                <item
+                    android:id="@+id/nav_Dairy"
+                    android:title="My Diary"/>
+
+            </group>
+
+        </menu>
+
+    </item>
+
+    <item android:title="ToolBox">
+
+        <menu>
+
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/navtodo"
+                    android:title="Quick Todo's"/>
+                <item
+                    android:id="@+id/navarchive"
+                    android:title="Text To PDF"/>
+                <item
+                    android:id="@+id/navshared"
+                    android:title="Sticky Note"/>
+                <item
+                    android:id="@+id/navduplicate"
+                    android:title="Paint"/>
+
+            </group>
+
+        </menu>
+
+    </item>
+
+    <item android:title="Realtime Data">
+
+        <menu>
+
+            <group android:checkableBehavior="single">
+
+                <item
+                    android:id="@+id/navdeleted"
+                    android:title="Notes"/>
+                <item
+                    android:id="@+id/navsetting"
+                    android:title="Room Chat"/>
+                <item
+                    android:id="@+id/nav_message"
+                    android:title="Anonymous Chat"/>
+
+                <item
+                    android:id="@+id/navbrave"
+                    android:title="Settings"/>
+            </group>
+
+        </menu>
+
+    </item>
+
+</menu>

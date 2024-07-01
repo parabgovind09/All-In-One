@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:cardCornerRadius="6dp"
+    android:elevation="12dp"
+    android:foreground="?attr/selectableItemBackground"
+    tools:ignore="HardcodedText">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="vertical"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/recyclerViewtv_title"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            />
+
+        <RelativeLayout
+            android:id="@+id/recyclerViewRelativeLayout"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_below="@id/recyclerViewtv_title"
+            android:background="@color/FireBrick">
+
+            <TextView
+                android:id="@+id/recyclerViewTextView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_margin="6dp"
+                android:textColor="@color/white"
+                android:layout_centerVertical="true"
+                />
+
+            <ImageButton
+                android:id="@+id/recyclerViewImageButton1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="6dp"
+                android:layout_centerInParent="true"
+                android:layout_toStartOf="@id/recyclerViewTextView2"
+                android:background="@drawable/ic_baseline_edit_24"/>
+
+            <TextView
+                android:id="@+id/recyclerViewTextView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:text="&#8942;"
+                android:layout_margin="6dp"
+                android:layout_alignParentEnd="true"
+                android:layout_centerVertical="true"/>
+
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/recyclerViewtv_description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:visibility="visible"
+            android:layout_below="@id/recyclerViewRelativeLayout"
+            />
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

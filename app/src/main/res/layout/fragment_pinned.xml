@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/LightYellow"
+    tools:context=".PinnedFragment"
+    tools:ignore="HardcodedText">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <!--Edit text to enter course name-->
+        <EditText
+            android:id="@+id/idEdtCourseName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Title" />
+
+
+        <!--edit text for course description-->
+        <EditText
+            android:id="@+id/idEdtCourseDescription"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Description" />
+
+        <!--button for adding new course-->
+        <Button
+            android:id="@+id/idBtnAddCourse"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Add Note"
+            android:textAllCaps="false" />
+
+        <!--new button for opening our course list activity-->
+        <Button
+            android:id="@+id/idBtnReadCourse"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Read All Notes"
+            android:textAllCaps="false" />
+
+    </LinearLayout>
+
+</ScrollView>

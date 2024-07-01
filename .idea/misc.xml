@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AllInOne/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/AllInOne/app/src/main/res/layout/activity_todo_fragment.xml" value="0.1675213675213675" />
+        <entry key="..\:/AllInOne/app/src/main/res/layout/course_rv_item.xml" value="0.22" />
+        <entry key="..\:/AllInOne/app/src/main/res/layout/done_list.xml" value="0.1675213675213675" />
+        <entry key="..\:/AllInOne/app/src/main/res/layout/fragment_add_ampfibian.xml" value="0.1675213675213675" />
+        <entry key="..\:/AllInOne/app/src/main/res/layout/fragment_add_heatblast.xml" value="0.1675213675213675" />
+        <entry key="..\:/AllInOne/app/src/main/res/layout/fragment_add_heatblast2.xml" value="0.18" />
+        <entry key="..\:/AllInOne/app/src/main/res/layout/fragment_add_reminder.xml" value="0.21" />
+        <entry key="..\:/AllInOne/app/src/main/res/layout/fragment_anonymous_chat.xml" value="0.1675213675213675" />
+        <entry key="..\:/AllInOne/app/src/main/res/layout/fragment_anonymous_chat_user_list.xml" value="0.1675213675213675" />
+        <entry key="..\:/AllInOne/app/src/main/res/layout/fragment_bottom_sheet1.xml" value="0.1675213675213675" />
+        <entry key="..\:/AllInOne/app/src/main/res/layout/fragment_bottom_sheet2.xml" value="0.1675213675213675" />
+        <entry key="..\:/AllInOne/app/src/main/res/layout/fragment_chatroom_chat.xml" value="0.1675213675213675" />
+        <entry key="..\:/AllInOne/app/src/main/res/layout/fragment_chatroom_list.xml" value="0.1675213675213675" />
+        <entry key="..\:/AllInOne/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/AllInOne/app/src/main/res/layout/fragment_login.xml" value="0.2" />
+        <entry key="..\:/AllInOne/app/src/main/res/layout/fragment_main_act.xml" value="0.15598290598290598" />
+        <entry key="..\:/AllInOne/app/src/main/res/layout/fragment_memories.xml" value="0.1675213675213675" />
+        <entry key="..\:/AllInOne/app/src/main/res/layout/fragment_new_fire_note.xml" value="0.20416666666666666" />
+        <entry key="..\:/AllInOne/app/src/main/res/layout/fragment_new_item.xml" value="0.1675213675213675" />
+        <entry key="..\:/AllInOne/app/src/main/res/layout/fragment_new_memory.xml" value="0.1675213675213675" />
+        <entry key="..\:/AllInOne/app/src/main/res/layout/fragment_paint.xml" value="0.1675213675213675" />
+        <entry key="..\:/AllInOne/app/src/main/res/layout/fragment_phone_authentication.xml" value="0.1675213675213675" />
+        <entry key="..\:/AllInOne/app/src/main/res/layout/fragment_pinned.xml" value="0.1675213675213675" />
+        <entry key="..\:/AllInOne/app/src/main/res/layout/fragment_register.xml" value="0.20416666666666666" />
+        <entry key="..\:/AllInOne/app/src/main/res/layout/fragment_settings.xml" value="0.2" />
+        <entry key="..\:/AllInOne/app/src/main/res/layout/fragment_splash.xml" value="0.20416666666666666" />
+        <entry key="..\:/AllInOne/app/src/main/res/layout/fragment_start.xml" value="0.18" />
+        <entry key="..\:/AllInOne/app/src/main/res/layout/fragment_sticky_notes.xml" value="0.1973816717019134" />
+        <entry key="..\:/AllInOne/app/src/main/res/layout/fragment_text_pdf.xml" value="0.15598290598290598" />
+        <entry key="..\:/AllInOne/app/src/main/res/layout/fragment_todo.xml" value="0.15598290598290598" />
+        <entry key="..\:/AllInOne/app/src/main/res/layout/fragment_update_ampfibian.xml" value="0.1675213675213675" />
+        <entry key="..\:/AllInOne/app/src/main/res/layout/fragment_update_courses.xml" value="0.1675213675213675" />
+        <entry key="..\:/AllInOne/app/src/main/res/layout/fragment_update_heatblast.xml" value="0.15598290598290598" />
+        <entry key="..\:/AllInOne/app/src/main/res/layout/fragment_update_heatblast2.xml" value="0.15598290598290598" />
+        <entry key="..\:/AllInOne/app/src/main/res/layout/fragment_update_reminder.xml" value="0.1675213675213675" />
+        <entry key="..\:/AllInOne/app/src/main/res/layout/fragment_view_courses.xml" value="0.1675213675213675" />
+        <entry key="..\:/AllInOne/app/src/main/res/layout/fragment_view_fire_note.xml" value="0.1675213675213675" />
+        <entry key="..\:/AllInOne/app/src/main/res/layout/fragment_view_heatblast.xml" value="0.1675213675213675" />
+        <entry key="..\:/AllInOne/app/src/main/res/layout/fragment_view_heatblast2.xml" value="0.1675213675213675" />
+        <entry key="..\:/AllInOne/app/src/main/res/layout/fragment_view_reminders.xml" value="0.1675213675213675" />
+        <entry key="..\:/AllInOne/app/src/main/res/layout/ic_done.xml" value="0.1675213675213675" />
+        <entry key="..\:/AllInOne/app/src/main/res/layout/item.xml" value="0.1675213675213675" />
+        <entry key="..\:/AllInOne/app/src/main/res/layout/language_dialog.xml" value="0.1675213675213675" />
+        <entry key="..\:/AllInOne/app/src/main/res/layout/memory_list_item.xml" value="0.16" />
+        <entry key="..\:/AllInOne/app/src/main/res/layout/message_area.xml" value="0.1675213675213675" />
+        <entry key="..\:/AllInOne/app/src/main/res/layout/new_app_widget.xml" value="0.1675213675213675" />
+        <entry key="..\:/AllInOne/app/src/main/res/layout/notification_layout.xml" value="0.1675213675213675" />
+        <entry key="..\:/AllInOne/app/src/main/res/layout/recycler_view_layout.xml" value="0.1675213675213675" />
+        <entry key="..\:/AllInOne/app/src/main/res/layout/row.xml" value="0.1675213675213675" />
+        <entry key="..\:/AllInOne/app/src/main/res/layout/single_note_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/AllInOne/app/src/main/res/layout/single_reminder_file.xml" value="0.1675213675213675" />
+        <entry key="..\:/AllInOne/app/src/main/res/layout/to_do_widget.xml" value="0.16" />
+        <entry key="..\:/AllInOne/app/src/main/res/layout/todo_fragment.xml" value="0.1675213675213675" />
+        <entry key="..\:/AllInOne/app/src/main/res/layout/todo_task.xml" value="0.1675213675213675" />
+        <entry key="..\:/AllInOne/app/src/main/res/layout/viewampfibian_recyclerview.xml" value="0.1675213675213675" />
+        <entry key="..\:/AllInOne/app/src/main/res/layout/viewheatblast_recyclerview.xml" value="0.1675213675213675" />
+        <entry key="..\:/AllInOne/app/src/main/res/menu/fire_edit_menu.xml" value="0.1675213675213675" />
+        <entry key="..\:/AllInOne/app/src/main/res/menu/fire_main_menu.xml" value="0.16709401709401708" />
+        <entry key="..\:/AllInOne/app/src/main/res/menu/main_menu.xml" value="0.1675213675213675" />
+        <entry key="..\:/AllInOne/app/src/main/res/menu/memory_options_menu.xml" value="0.1675213675213675" />
+        <entry key="..\:/AllInOne/app/src/main/res/menu/menu_main.xml" value="0.1675213675213675" />
+        <entry key="..\:/AllInOne/app/src/main/res/menu/menu_new.xml" value="0.1675213675213675" />
+        <entry key="..\:/AllInOne/app/src/main/res/menu/navigationdrawer1.xml" value="0.25" />
+        <entry key="..\:/AllInOne/app/src/main/res/menu/normalnotes_menu.xml" value="0.1675213675213675" />
+        <entry key="..\:/AllInOne/app/src/main/res/menu/options_menu.xml" value="0.15598290598290598" />
+        <entry key="..\:/AllInOne/app/src/main/res/menu/options_menu1.xml" value="0.1675213675213675" />
+        <entry key="..\:/AllInOne/app/src/main/res/menu/todo_menu.xml" value="0.18" />
+        <entry key="..\:/AllInOne/app/src/main/res/xml/new_app_widget_info.xml" value="0.16880341880341881" />
+        <entry key="..\:/AllInOne/app/src/main/res/xml/to_do_widget_info.xml" value="0.1675213675213675" />
+        <entry key="..\:/AllInOne/app/src/main/res/xml/xml.xml" value="0.1675213675213675" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

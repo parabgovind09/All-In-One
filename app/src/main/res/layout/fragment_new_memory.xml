@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:padding="9dp"
+    android:orientation="vertical"
+    tools:context=".NewMemoryFragment"
+    android:background="@color/LightYellow"
+    tools:ignore="HardcodedText">
+
+    <ImageView
+        android:id="@+id/new_memory_selected_image"
+        android:src="@drawable/app_logo"
+        android:layout_width="match_parent"
+        android:layout_height="200dp" />
+
+    <EditText
+        android:id="@+id/new_memory_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Add Title"/>
+
+<!--    <EditText-->
+<!--        android:id="@+id/new_memory_description"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:hint="Add Description"/>-->
+
+    <Button
+        android:id="@+id/open_Gallery"
+        android:text="Open gallery"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/open_Camera"
+        android:text="Open camera"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/new_memory_cancel"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:text="Go Back"
+            android:layout_height="wrap_content" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@color/LightYellow"
+            />
+
+
+        <Button
+            android:id="@+id/save"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:text="Save"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+</LinearLayout>

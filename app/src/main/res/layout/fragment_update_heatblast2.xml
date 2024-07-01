@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="3dp"
+    tools:context=".UpdateHeatblast"
+    tools:ignore="HardcodedText">
+
+    <ScrollView
+        android:id="@+id/scrollview1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/horizontalscrollview1"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:scrollbars="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <EditText
+                android:id="@+id/edt_title"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Title"/>
+
+            <EditText
+                android:id="@+id/edt_description"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Description"/>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+    <HorizontalScrollView
+        android:id="@+id/horizontalscrollview1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:scrollbars="horizontal">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/btn_update"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Update"
+                style="?android:attr/buttonBarButtonStyle" />
+
+            <Button
+                android:id="@+id/btn_noformat"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="No Format"
+                style="?android:attr/buttonBarButtonStyle" />
+
+            <Button
+                android:id="@+id/btn_normal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Normal"
+                style="?android:attr/buttonBarButtonStyle" />
+
+            <Button
+                android:id="@+id/btn_bold"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Bold"
+                style="?android:attr/buttonBarButtonStyle" />
+
+            <Button
+                android:id="@+id/btn_italic"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Italic"
+                style="?android:attr/buttonBarButtonStyle" />
+
+            <Button
+                android:id="@+id/btn_bolditalic"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Bold Italic"
+                style="?android:attr/buttonBarButtonStyle" />
+
+            <Button
+                android:id="@+id/btn_underline"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Underline"
+                style="?android:attr/buttonBarButtonStyle" />
+
+            <Button
+                android:id="@+id/btn_leftalign"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Left Align"
+                style="?android:attr/buttonBarButtonStyle" />
+
+            <Button
+                android:id="@+id/btn_centeralign"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Center Align"
+                style="?android:attr/buttonBarButtonStyle" />
+
+            <Button
+                android:id="@+id/btn_rightalign"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Right Align"
+                style="?android:attr/buttonBarButtonStyle" />
+
+            <Button
+                android:id="@+id/btn_strikethrough"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Strike Through"
+                style="?android:attr/buttonBarButtonStyle" />
+
+        </LinearLayout>
+
+    </HorizontalScrollView>
+
+</RelativeLayout>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="HardcodedText">
+
+    <item android:id="@+id/main_new_note_btn"
+        android:title="New note"
+        android:icon="@drawable/ic_baseline_add_24"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/room_chat"
+        android:title="Room Chat" />
+
+    <item android:id="@+id/anonymous_chat"
+        android:title="Anonymous Chat"
+        />
+
+    <item android:id="@+id/settings"
+        android:title="Settings"/>
+
+</menu>

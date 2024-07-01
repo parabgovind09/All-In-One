@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="8dp"
+    tools:context=".TextPdf"
+    tools:ignore="HardcodedText">
+
+    <HorizontalScrollView
+        android:id="@+id/bar"
+        android:layout_width="match_parent"
+        android:layout_height="?actionBarSize"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="5dp"
+        >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:scrollbars="horizontal"
+            >
+            <Button
+                android:id="@+id/create"
+                android:layout_width="wrap_content"
+                android:layout_height="?actionBarSize"
+                android:layout_margin="2dp"
+                android:text="Create PDF"
+                style="?android:attr/buttonBarButtonStyle" />
+            <Button
+                android:id="@+id/lefttext"
+                android:layout_width="wrap_content"
+                android:layout_height="?actionBarSize"
+                android:layout_margin="2dp"
+                android:text="left text"
+                style="?android:attr/buttonBarButtonStyle" />
+
+            <Button
+                android:id="@+id/centertext"
+                android:layout_width="wrap_content"
+                android:layout_height="?actionBarSize"
+                android:layout_margin="2dp"
+                android:text="center text"
+                style="?android:attr/buttonBarButtonStyle" />
+
+            <Button
+                android:id="@+id/righttext"
+                android:layout_width="wrap_content"
+                android:layout_height="?actionBarSize"
+                android:layout_margin="2dp"
+                android:text="right text"
+                style="?android:attr/buttonBarButtonStyle" />
+            <Button
+                android:id="@+id/bold"
+                android:layout_width="wrap_content"
+                android:layout_height="?actionBarSize"
+                android:layout_margin="2dp"
+                android:text="Bold"
+                style="?android:attr/buttonBarButtonStyle" />
+            <Button
+                android:id="@+id/itallic"
+                android:layout_width="wrap_content"
+                android:layout_height="?actionBarSize"
+                android:layout_margin="2dp"
+                android:text="Itallic"
+                style="?android:attr/buttonBarButtonStyle" />
+            <Button
+                android:id="@+id/underline"
+                android:layout_width="wrap_content"
+                android:layout_height="?actionBarSize"
+                android:layout_margin="2dp"
+                android:text="Underline"
+                style="?android:attr/buttonBarButtonStyle" />
+
+        </LinearLayout>
+
+    </HorizontalScrollView>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@id/bar">
+
+        <EditText
+            android:id="@+id/inputtext"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColorHint="@color/black"
+            android:hint="Type Your Text Here...."
+            />
+
+    </ScrollView>
+
+    <ProgressBar
+        android:id="@+id/progressbar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:visibility="invisible"
+        />
+</RelativeLayout>

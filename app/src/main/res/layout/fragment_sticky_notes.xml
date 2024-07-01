@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".sticky_notes"
+    tools:ignore="HardcodedText">
+
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:gravity="start|top"
+        android:hint="Enter Your Note"
+        android:background="@color/LightYellow"
+        android:inputType="textImeMultiLine"
+        android:textColorHint="@color/black" />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/save"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="right|bottom"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="3dp"
+        android:layout_marginTop="3dp"
+        android:layout_marginEnd="3dp"
+        android:layout_marginBottom="3dp"
+        android:layout_alignParentBottom="true"
+        android:src="@drawable/ic_baseline_save_24"
+        app:backgroundTint="@color/FireBrick"
+        tools:ignore="UsingOnClickInXml" />
+
+    <LinearLayout
+        android:id="@+id/llayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_toStartOf="@+id/save"
+        android:layout_margin="5dp"
+        android:layout_toLeftOf="@id/save"
+        android:weightSum="3">
+
+<!--        <Button-->
+<!--            android:layout_width="0dp"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_weight="1"-->
+<!--            android:text="-"-->
+<!--            android:textSize="18sp"-->
+<!--            android:textStyle="bold"-->
+<!--            android:id="@+id/decrement"/>-->
+
+<!--        <TextView-->
+<!--            android:id="@+id/sizeindicator"-->
+<!--            android:layout_width="0dp"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_weight="1"-->
+<!--            android:layout_gravity="center"-->
+<!--            android:text="12"-->
+<!--            android:textStyle="bold"-->
+<!--            android:textSize="18sp"-->
+<!--            android:textAlignment="center"-->
+<!--            />-->
+
+<!--        <Button-->
+<!--            android:layout_width="0dp"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_weight="1"-->
+<!--            android:textSize="18sp"-->
+<!--            android:text="+"-->
+<!--            android:textStyle="bold"-->
+<!--            android:id="@+id/increment"/>-->
+
+<!--    </LinearLayout>-->
+
+<!--    <LinearLayout-->
+<!--        android:id="@+id/llayout"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_alignParentBottom="true"-->
+<!--        android:orientation="horizontal"-->
+<!--        android:weightSum="3">-->
+
+<!--        <Button-->
+<!--            android:id="@+id/bold"-->
+<!--            android:layout_width="0dp"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_margin="5dp"-->
+<!--            android:layout_weight="1"-->
+<!--            android:text="B"-->
+<!--            android:textSize="18sp"-->
+<!--            android:textStyle="bold"-->
+<!--            tools:ignore="Suspicious0dp" />-->
+
+<!--        <Button-->
+<!--            android:id="@+id/underline"-->
+<!--            android:layout_width="0dp"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_margin="5dp"-->
+<!--            android:layout_weight="1"-->
+<!--            android:text="U"-->
+<!--            android:textSize="18sp"-->
+<!--            tools:ignore="Suspicious0dp" />-->
+
+<!--        <Button-->
+<!--            android:id="@+id/itallic"-->
+<!--            android:layout_width="0dp"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_margin="5dp"-->
+<!--            android:layout_weight="1"-->
+<!--            android:text="I"-->
+<!--            android:textSize="18sp"-->
+<!--            android:textStyle="bold"-->
+<!--            tools:ignore="Suspicious0dp" />-->
+
+    </LinearLayout>
+
+</RelativeLayout>
